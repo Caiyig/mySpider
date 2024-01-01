@@ -1,0 +1,19 @@
+{
+    "user_id_list": "test_user_id_list.txt",
+    "only_crawl_original": 0,
+    "since_date": "2023-12-20",
+    "write_mode": [
+         "json","sqlite"
+    ],
+    "original_pic_download": 1,
+    "retweet_pic_download": 1,
+    "original_video_download": 0,
+    "retweet_video_download": 0,
+    "download_comment": 0,
+    "comment_max_download_count": 300,
+    "download_repost": 1,
+    "repost_max_download_count": 600,
+    "user_id_as_folder_name": 0,
+    "remove_html_tag": 1,
+    "cookie": "_T_WM=91addb89d681174e5f5a0357e8612c01; ALF=1706407858; SCF=AtQ0Hy-5atUBHzckIa5zSsi38uzq-zWmc3_TktSdzA3G4JhxciXFt4PAiVpu-lss98FkRtdYnz9UkOjMZaNrtsE.; SUB=_2A25IilrtDeRhGeBN7lAW8CfLzDSIHXVr5tIlrDV6PUJbktAGLU7gkW1NRElt-ic6ctKaNjqkIMCLbtR8Rz4yM5J0; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9W50CdQchG6nBsMovPqqGB1A5NHD95Qce0-ES054S0MRWs4DqcjMi--NiK.Xi-2Ri--ciKnRi-zNSoefeoM71KMN15tt; SSOLoginState=17038158690"
+}
